@@ -6,9 +6,17 @@ A super simple RESTful api created using Flask. The idea is to have a simple api
 
 Requirements:
 
+For Linux and macOS:
+
 ```sh
 python -m venv ./venv
 source .venv/bin/activate
+```
+For Windows:
+
+```sh
+python -m venv ./venv
+.\venv\Scripts\activate
 ```
 
 Next, run
